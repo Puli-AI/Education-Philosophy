@@ -58,4 +58,4 @@ When all three cognitive skills converge—complex problem solving, critical thi
 
 ## Visualization
 
-![3Cs Cognitive Integration](ChatGPT_Image_Jul_21_2025_12_04_33_PM.png)
+![3Cs Cognitive Integration](3C_Image.png)
