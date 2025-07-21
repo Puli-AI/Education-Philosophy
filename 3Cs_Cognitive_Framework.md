@@ -58,4 +58,5 @@ When all three cognitive skills converge—complex problem solving, critical thi
 
 ## Visualization
 
-![3Cs Cognitive Integration](3C_Image.png)
+<img src="3C_Image.png" alt="3Cs Cognitive Integration" width="50%" height="50%">
+<!-- ![3Cs Cognitive Integration](3C_Image.png) -->
