@@ -4,7 +4,7 @@
 
 Combines the **5C Model** (Curiosity, Complex Problem Solving, Creativity, Critical Thinking, Communication) with the **Feynman Technique**, enhanced by AI tools for accelerated learning and effective problem resolution.
 
-![Mindmap](mindmap.png)
+![Mindmap](integrated_framework.png)
 
 ### The 5C Model
 - **Curiosity** – The initial spark and exploration  
